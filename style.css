@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(228, 229, 229);
+}
+
+.box{
+    position: relative;
+    left: 55vh;
+    right: 50vh;
+    width: 50vh;
+    height: 80vh;
+    background-color: white;
+    border-radius: 2vh;
+    font-family: 'Poppins', sans-serif;
+    padding: 1vh;
+    display: inline-block;
+    box-shadow: 2px 2px 2px 2px rgb(0, 0, 0, 0.4);
+    margin: 3vh;
+}
+img{
+    width: 46vh;
+    padding: 2vh;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border-radius: 3vh;    
+}
+
+h3{
+    margin: 0;
+    margin-left: 3vh;
+    padding-top: 3vh;
+}
+
+.sub{
+    font-size: 2.25vh;
+    color: rgb(140, 138, 138);
+    border: 1px solid rgb(145, 144, 144);
+    margin-left: 3vh;
+    margin-bottom: 0;
+    margin-top: 0;
+    border-radius: 2.5vh;
+    padding: 0.75vh;
+    background-color: rgb(215, 215, 216, 0.3);
+    font-family: 'Baloo 2', sans-serif;
+}
+
+.des{
+    font-size: 2.5vh;
+    width: 44vh;
+    padding: 3vh;
+    padding-top: 1vh;
+    margin-bottom: 0;
+}
+
+button{
+    font-family: 'Baloo 2', sans-serif;
+    margin-left: 16vh;
+    border-radius: 5vh;
+    border: none;
+    padding: 1.5vh;
+    background-color: rgb(64, 160, 255, 0.4);
+    color: blue;
+    margin-top: 0;
+    font-weight: 600;
+}
+
+button:hover{
+    text-decoration: underline;
+}
